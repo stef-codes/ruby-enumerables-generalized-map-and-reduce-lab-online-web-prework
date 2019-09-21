@@ -11,6 +11,8 @@ end
 
 def reduce(array,sv=0)
   if sv
+    num1 = sv
+    i = 0 
   else
   end
 end 
