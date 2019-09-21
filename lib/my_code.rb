@@ -19,5 +19,6 @@ def reduce(array,sv=0)
   end
   
   while i < array.length 
+    
   
 end 
