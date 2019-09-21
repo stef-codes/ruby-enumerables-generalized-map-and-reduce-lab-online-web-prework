@@ -10,5 +10,7 @@ def map(array)
 end 
 
 def reduce(array,sv=0)
-
+  if 
+  else
+  end
 end 
