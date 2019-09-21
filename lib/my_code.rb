@@ -62,5 +62,3 @@ describe 'my own reduce' do
     expect(reduce(source_array){|memo, n| memo && n}).to eq(false)
   end
 end
-
-= end
