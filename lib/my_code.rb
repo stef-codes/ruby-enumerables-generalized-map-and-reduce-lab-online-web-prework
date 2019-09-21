@@ -1,4 +1,4 @@
-# Your Code Here
+#map
 def map(array)
   new = []
   i = 0 
@@ -9,5 +9,8 @@ def map(array)
  new
 end
 
-def reduce
+#reduce
+def reduce(array,starting_value=0)
+
+end 
 
