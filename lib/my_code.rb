@@ -14,6 +14,6 @@ def reduce(array,sv=0)
     num1 = sv
     i = 0 
   else
-    num1
+    num1 = array[0]
   end
 end 
