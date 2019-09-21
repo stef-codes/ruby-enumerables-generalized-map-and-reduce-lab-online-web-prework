@@ -14,5 +14,6 @@ def reduce(array,sv=0)
     num1 = sv
     i = 0 
   else
+    
   end
 end 
